@@ -16,7 +16,7 @@ Desenvolvido por:
 
 <p align="justify"> Segue o quadro Trello contendo cartões que descrevem cada uma das funcionalidades da aplicação. 
 <p align="justify"> Trello - Curso de Spring Boot
-https://trello.com/b/O0lGCsKb/api-voll-med
+https://trello.com/b/6LH6KRrU/api-voll-med
 </p>
 <p align="justify"> Além disso, também vou usar o layout mobile da aplicação, que pode ser acessado neste link da ferramenta Figma:
 Layout mobile da aplicação Voll.med
