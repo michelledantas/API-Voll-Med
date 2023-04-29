@@ -2,12 +2,12 @@
 
 <h4 align="center">Status: Criado</h4>
 
-<p align="center">Sistemas de Gerenciamento de Cadastro Médico.</p>
 
 <div align="center">
 Desenvolvido por: 
 <p>https://github.com/michelledantas</p>
 
+<p align="center">Sistemas de Gerenciamento de Cadastro Médico.</p>
 
 <p align="justify">API desenvolvida no curso de Spring Boot 3 do ALURA </p>
 
