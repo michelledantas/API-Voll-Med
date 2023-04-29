@@ -14,11 +14,7 @@ Desenvolvido por:
 <p align="justify">Sistema que possibilita realizar o gerenciamento de cadastro de médicos.
 </p>
 
-<p align="justify">Sistema que possibilita realizar o gerenciamento de cadastro de médicos.
-</p>
-
-<p align="justify"> Durante o curso eu utilizarei um quadro do Trello contendo cartões que descrevem cada uma das funcionalidades da aplicação. Você pode acessar esse quadro neste link:
-
+<p align="justify"> Segue o quadro Trello contendo cartões que descrevem cada uma das funcionalidades da aplicação. 
 <p align="justify"> Trello - Curso de Spring Boot
 https://trello.com/b/O0lGCsKb/api-voll-med
 </p>
